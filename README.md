@@ -31,7 +31,7 @@ Swap: swap two random cards
 
 ToFirst: swap the first card and other random card(the first one is not consider in the random card selection)
 
-###Use your own implementation
+###Use your own shuffle implementation
 
 Use the interface IShuffleMethod to implement your own algorithm.
 
